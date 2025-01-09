@@ -1,3 +1,39 @@
+# Counter🚀
+
+Welcome to my test!
+
+### Prerequisites 📋
+
+After cloning the repository, have node and npm installed.
+
+### Installation 🔧
+
+If you don't have node and npm installed follow the instructions on the node page: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
+To install the project dependencies run the following command: 'npm install'.
+
+To get the project up you need to type in the terminal 'npm run dev'.
+
+You must be in the correct folder which would be 'counter'.
+
+## How to use the proyecto⚙️
+
+The counter does not show the maximum or minimum message when it is a different number than the set limit.
+
+It does not allow to subtract to a number less than 0.
+
+It does not allow to add to a number greater than 15.
+
+## Built with 🛠️
+
+next.js basic course (https://nextjs.org/learn/react-foundations/server-and-client-components)
+
+Next.js documentation (https://nextjs.org/docs/app/getting-started/layouts-and-pages)
+
+Buttons (https://mui.com/material-ui/react-button/)
+
+> ### SPANISH VERSION / VERSION ESPAÑOL
+
 # Contador🚀
 
 ¡Bienvenido a mi prueba!
