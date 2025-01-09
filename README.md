@@ -44,13 +44,13 @@ Luego de clonar el repositorio, tener instalado node y npm.
 
 ### Instalación 🔧
 
+Debes estar en la carpeta correcta que sería 'contador'.
+
 Si no tienes instalado node y npm sigue las instrucciones de la página de node: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 Para instalar las dependencias del proyecto ejecuta el siguiente comando: 'npm install'
 
 Para levantar el proyecto necesitas escribir en la terminal 'npm run dev'.
-
-Debes estar en la carpeta correcta que sería 'contador'.
 
 ## Cómo usar el proyecto⚙️
 
