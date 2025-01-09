@@ -8,13 +8,13 @@ After cloning the repository, have node and npm installed.
 
 ### Installation 🔧
 
+You must be in the correct folder which would be 'counter'.
+
 If you don't have node and npm installed follow the instructions on the node page: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 To install the project dependencies run the following command: 'npm install'.
 
 To get the project up you need to type in the terminal 'npm run dev'.
-
-You must be in the correct folder which would be 'counter'.
 
 ## How to use the proyecto⚙️
 
