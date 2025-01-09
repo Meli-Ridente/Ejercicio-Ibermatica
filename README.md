@@ -14,6 +14,8 @@ Para instalar las dependencias del proyecto ejecuta el siguiente comando: 'npm i
 
 Para levantar el proyecto necesitas escribir en la terminal 'npm run dev'.
 
+Debes estar en la carpeta correcta que sería 'contador'.
+
 ## Cómo usar el proyecto⚙️
 
 El contador no muestra el mensaje de máximo o mínimo cuando es un número diferente al establecido como limite.
